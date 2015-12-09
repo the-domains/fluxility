@@ -1,7 +1,7 @@
 name: Fluxility
 favicon: null
-layout_spectrum: 0.2537028209771961
-typography_spectrum: 0.9847624122630805
+layout_spectrum: 0.49062
+typography_spectrum: 0.73152
 title: Fluxility
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5257103976327926
-  lightness: 0.31394160771742463
-  saturation: 0.6685222012456506
-  rhythmicContrast: 0.9181542920414358
+    - '#455dfe'
+    - '#92f6f5'
+    - '#282828'
+    - '#0000ff'
+    - '#00ffff'
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose: []
